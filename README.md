@@ -1,4 +1,4 @@
-# Building with AI: From Idea to Application
+# Building with AI: AI-Assisted Engineering
 
 Welcome to the **Building with AI** workshop! 👋
 
