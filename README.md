@@ -86,8 +86,6 @@ All four parts use the **same starter application**. You download it once, befor
 | 3 | [Vibe Coding: Budget Alerts](workshop/03-vibe-coding-budget-alerts.md) | Build a Budget Alerts feature from one high-level prompt, and evaluate what you get. | Copilot Chat (Agent) |
 | 4 | [Structured Engineering: Budget Alerts](workshop/04-structured-engineering-budget-alerts.md) | Build the same feature again, step by step: spec → plan → implement → test → review. | Copilot CLI |
 
-**Rough timing:** welcome and introduction (10 min) · Part 1 (15 min) · Part 2 (20 min) · Part 3 (15 min) · Part 4 (25 min) · wrap-up (5 min).
-
 ---
 
 ## Post-Workshop Assignment
