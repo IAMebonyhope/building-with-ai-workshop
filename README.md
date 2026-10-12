@@ -31,7 +31,7 @@ By the end of the workshop, you will be able to:
 
 ## Before the Workshop
 
-> ⏰ **Please finish setup before the workshop.** Installing everything takes about **45–60 minutes**, and there won't be time to do it during the session.
+> ⏰ **Please finish setup before the workshop.** Installing everything takes about **20–30 minutes**. We recommend setting aside **30 minutes before the session** to work through the prerequisites below, so you can get the most out of the workshop.
 
 Work through these steps in order. Each link opens a detailed, beginner-friendly guide.
 
