@@ -46,7 +46,7 @@ npm install
 
 **What this does:** downloads the libraries the app needs (React, Vite, testing tools) into a `node_modules` folder. It takes 30–90 seconds, and you only need to do it once.
 
-✅ **Success looks like:** a message ending with something like `added 150 packages` and `found 0 vulnerabilities`. Warnings (`npm warn ...`) are usually fine. Red `npm error` lines are not. See [Troubleshooting](#troubleshooting).
+✅ **Success looks like:** a message ending with something like `added 98 packages` and `found 0 vulnerabilities`. Warnings (`npm warn ...`) are usually fine. Red `npm error` lines are not. See [Troubleshooting](#troubleshooting).
 
 ## Step 4: Run the application
 
