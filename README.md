@@ -23,12 +23,9 @@ By the end of the workshop, you will be able to:
 
 | | |
 | --- | --- |
-| **Duration** | 90 minutes |
 | **Format** | Hands-on. Bring a laptop and follow along. |
 | **Project** | [Simple Expense Tracker](https://github.com/IAMebonyhope/simple-expense-tracker) (an app called *ExpenseFlow*) |
 | **Primary tools** | GitHub Copilot in VS Code and GitHub Copilot CLI |
-| **Cost** | Free. Everything works with the free **GitHub Copilot Free** plan. |
-| **Operating systems** | Windows 10/11 or macOS |
 
 ---
 
@@ -90,6 +87,27 @@ All four parts use the **same starter application**. You download it once, befor
 | 4 | [Structured Engineering: Budget Alerts](workshop/04-structured-engineering-budget-alerts.md) | Build the same feature again, step by step: spec → plan → implement → test → review. | Copilot CLI |
 
 **Rough timing:** welcome and introduction (10 min) · Part 1 (15 min) · Part 2 (20 min) · Part 3 (15 min) · Part 4 (25 min) · wrap-up (5 min).
+
+---
+
+## Post-Workshop Assignment
+
+**Enhance the Simple Expense Tracker with Spending Insights** 📊
+
+After the workshop, put what you learned into practice. You'll add a **Spending Insights** feature (charts of spending by category and over time) to your own copy of the app. You'll follow the full engineering process, with an AI coding agent of your choice as your development partner.
+
+| Stage | Deliverable |
+| --- | --- |
+| 1. Requirements and Specification | `SPEC.md` |
+| 2. Technical Design and Planning | `PLAN.md` |
+| 3. Implementation | Working feature, with Git commits |
+| 4. Testing and Validation | Automated tests and `TESTING.md` |
+| 5. Documentation and Reflection | Updated `README.md` with screenshots, and `REFLECTION.md` |
+
+- 📄 [Assignment brief: requirements, getting started, submission, and grading](assignment/README.md)
+- 🛠️ [The five stages, step by step, with suggested prompts](assignment/engineering-process.md)
+
+> **Build with AI. Think like an engineer.**
 
 ---
 
